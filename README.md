@@ -1,1 +1,1 @@
-# GalacticGridlock2
+This is another game written in 3 different programming languages, HTML, CSS, JAVASCRIPT. Use the the left and right arrow key to move the player around and use the mouse to shoot at the asteroids. You need to stop too many  asteroids from getting leaked from a given time or else the game will freeze and take you back to the menu it will also give the reason of why you lost the game. This game can be quite hard.
